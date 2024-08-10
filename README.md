@@ -4,11 +4,11 @@ This is an example project where [boost-ext/sml](https://github.com/boost-ext/sm
 
 The file consist on a MounRiver Studio project.
 
-Tested on a [WeAct CH32V003F4U6 Development Board)[https://github.com/WeActStudio/WeActStudio.CH32V003CoreBoard]
+Tested on a [WeAct CH32V003F4U6 Development Board][https://github.com/WeActStudio/WeActStudio.CH32V003CoreBoard]
 
 ## State Machine
 
-[LED Blink SM](PlantUML_BlinkLED.svg)
+![LED Blink SM](PlantUML_BlinkLED.svg)
 
 ## Code Summary
 
